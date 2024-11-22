@@ -1,16 +1,16 @@
 {
-    "name": "Mention All Bot",
+    "name": "Shadow Auction Mention All Bot",
     "description": "A simple mention all for telegram.",
     "env": {
         "TOKEN": {
-            "description": "Enter bot token."
+            "description": "7881507407:AAGQuBNY8Ulj4WmGAKdg5I0JP-KAwIuOagg"
         },
         "APP_ID": {
-            "description": "Get this value from my.telegram.org! Please do not steal."
+            "description": "2282111"
         },
         "API_HASH": {
-            "description": "Get this value from my.telegram.org! Please do not steal."
+            "description": "da58a1841a16c352a2a999171bbabcad"
         }
     },
-    "buildpacks": [{"url": "heroku/python"}]
+    "buildpacks": [{"url": "koyeb/python"}]
 }
